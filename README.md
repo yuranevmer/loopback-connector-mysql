@@ -1,3 +1,5 @@
+> This fork supports MySQL joins. You have an example repository at https://github.com/xavitb3/loopback-example-mysql-connector-joins
+
 # loopback-connector-mysql
 
 [MySQL](https://www.mysql.com/) is a popular open-source relational database
